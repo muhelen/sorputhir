@@ -5,6 +5,6 @@
 <a href="https://omtamil.com/sorputhir">  சொற்புதிர் - Sorputhir </a>
 </h1>  
 <p align=center>
-Tamil Crossword Puzzle
+Tamil Crossword Puzzle Game
     </a>
 </p>
