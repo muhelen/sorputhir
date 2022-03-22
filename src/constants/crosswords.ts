@@ -3554,53 +3554,54 @@ const crosswords: CrosswordInput[] = [
     }
   },
   {
+    author: 'Angela Sin',
     across: {
-      '3': {
-        answer: 'TACO',
-        row: 1,
-        col: 1
+      '2': {
+        answer: 'SIP',
+        row: 0,
+        col: 2
       },
-      '5': {
-        answer: 'LASER',
+      '4': {
+        answer: 'IRONY',
         row: 2,
         col: 0
       },
-      '6': {
-        answer: 'EXILE',
+      '7': {
+        answer: 'TOTE',
         row: 3,
         col: 0
       },
-      '7': {
-        answer: 'TILL',
+      '8': {
+        answer: 'ZESTY',
         row: 4,
         col: 0
       }
     },
     down: {
       '1': {
-        answer: 'BASIL',
+        answer: 'BLITZ',
+        row: 0,
+        col: 0
+      },
+      '2': {
+        answer: 'SPOTS',
         row: 0,
         col: 2
       },
-      '2': {
-        answer: 'SORE',
+      '3': {
+        answer: 'PAY',
         row: 0,
         col: 4
       },
-      '3': {
-        answer: 'TAXI',
-        row: 1,
+      '5': {
+        answer: 'ROE',
+        row: 2,
         col: 1
       },
-      '4': {
-        answer: 'CELL',
-        row: 1,
-        col: 3
-      },
-      '5': {
-        answer: 'LET',
+      '6': {
+        answer: 'NET',
         row: 2,
-        col: 0
+        col: 3
       }
     }
   },
@@ -3714,95 +3715,91 @@ const crosswords: CrosswordInput[] = [
     }
   },
   {
-    author: 'PeppermintG',
+    author: 'Nicole Walker',
     across: {
       '1': {
-        answer: 'OTTER',
+        answer: 'COBRA',
         row: 0,
         col: 0
       },
       '4': {
-        answer: 'NASAL',
+        answer: 'BREAD',
         row: 2,
         col: 0
       },
       '5': {
-        answer: 'EVENS',
+        answer: 'COSTS',
         row: 4,
         col: 0
       }
     },
     down: {
       '1': {
-        answer: 'OUNCE',
+        answer: 'CUBIC',
         row: 0,
         col: 0
       },
       '2': {
-        answer: 'TASTE',
+        answer: 'BREWS',
         row: 0,
         col: 2
       },
       '3': {
-        answer: 'ROLES',
+        answer: 'AIDES',
         row: 0,
         col: 4
       }
     }
   },
   {
+    author: 'Angela Sin',
     across: {
       '1': {
-        answer: 'GALE',
+        answer: 'BELT',
         row: 0,
-        col: 1
-      },
-      '5': {
-        answer: 'ALLOY',
-        row: 1,
         col: 0
       },
-      '6': {
-        answer: 'AIDE',
+      '3': {
+        answer: 'AN',
+        row: 1,
+        col: 3
+      },
+      '4': {
+        answer: 'AILS',
         row: 2,
-        col: 1
+        col: 0
       },
       '7': {
-        answer: 'URGED',
+        answer: 'KNOT',
         row: 3,
         col: 0
       },
       '8': {
-        answer: 'PENS',
+        answer: 'ENTER',
         row: 4,
         col: 0
       }
     },
     down: {
       '1': {
-        answer: 'GLARE',
+        answer: 'BRAKE',
         row: 0,
-        col: 1
+        col: 0
       },
       '2': {
-        answer: 'ALIGN',
-        row: 0,
-        col: 2
-      },
-      '3': {
-        answer: 'LODES',
+        answer: 'TASTE',
         row: 0,
         col: 3
       },
-      '4': {
-        answer: 'EYED',
-        row: 0,
-        col: 4
+      '5': {
+        answer: 'INN',
+        row: 2,
+        col: 1
       },
-      '7': {
-        answer: 'UP',
-        row: 3,
-        col: 0
+      '6': {
+        answer: 'LOT',
+        row: 2,
+        col: 2
       }
     }
   },
@@ -3922,68 +3919,54 @@ const crosswords: CrosswordInput[] = [
     }
   },
   {
+    author: 'Wils E.',
     across: {
       '1': {
-        answer: 'ARISE',
+        answer: 'GOOSE',
         row: 0,
         col: 0
       },
       '6': {
-        answer: 'SOFAS',
+        answer: 'INDEX',
         row: 1,
         col: 0
       },
       '7': {
-        answer: 'IS',
+        answer: 'OAT',
         row: 2,
-        col: 0
+        col: 2
       },
       '8': {
-        answer: 'UP',
-        row: 2,
-        col: 3
-      },
-      '9': {
-        answer: 'DEITY',
-        row: 3,
-        col: 0
-      },
-      '11': {
-        answer: 'ME',
+        answer: 'TESLA',
         row: 4,
-        col: 2
+        col: 0
       }
     },
     down: {
       '1': {
-        answer: 'ASIDE',
+        answer: 'GIANT',
         row: 0,
         col: 0
       },
       '2': {
-        answer: 'ROSE',
+        answer: 'ON',
         row: 0,
         col: 1
       },
       '3': {
-        answer: 'IF',
+        answer: 'ODOTS',
         row: 0,
         col: 2
       },
       '4': {
-        answer: 'SAUTE',
+        answer: 'SEA',
         row: 0,
         col: 3
       },
       '5': {
-        answer: 'ESPY',
+        answer: 'EXTRA',
         row: 0,
         col: 4
-      },
-      '10': {
-        answer: 'IM',
-        row: 3,
-        col: 2
       }
     }
   },
@@ -4453,6 +4436,268 @@ const crosswords: CrosswordInput[] = [
     }
   },
   // 80
+  {
+    across: {
+      '3': {
+        answer: 'TACO',
+        row: 1,
+        col: 1
+      },
+      '5': {
+        answer: 'LASER',
+        row: 2,
+        col: 0
+      },
+      '6': {
+        answer: 'EXILE',
+        row: 3,
+        col: 0
+      },
+      '7': {
+        answer: 'TILL',
+        row: 4,
+        col: 0
+      }
+    },
+    down: {
+      '1': {
+        answer: 'BASIL',
+        row: 0,
+        col: 2
+      },
+      '2': {
+        answer: 'ORE',
+        row: 1,
+        col: 4
+      },
+      '3': {
+        answer: 'TAXI',
+        row: 1,
+        col: 1
+      },
+      '4': {
+        answer: 'CELL',
+        row: 1,
+        col: 3
+      },
+      '5': {
+        answer: 'LET',
+        row: 2,
+        col: 0
+      }
+    }
+  },
+  {
+    author: 'PeppermintG',
+    across: {
+      '1': {
+        answer: 'DRANK',
+        row: 0,
+        col: 0
+      },
+      '5': {
+        answer: 'RAN',
+        row: 1,
+        col: 2
+      },
+      '6': {
+        answer: 'ABOVE',
+        row: 2,
+        col: 0
+      },
+      '7': {
+        answer: 'SEE',
+        row: 3,
+        col: 2
+      },
+      '8': {
+        answer: 'SEEL',
+        row: 4,
+        col: 0
+      }
+    },
+    down: {
+      '1': {
+        answer: 'DRAWS',
+        row: 0,
+        col: 0
+      },
+      '2': {
+        answer: 'AROSE',
+        row: 0,
+        col: 2
+      },
+      '3': {
+        answer: 'NAVEL',
+        row: 0,
+        col: 3
+      },
+      '4': {
+        answer: 'KNEE',
+        row: 0,
+        col: 4
+      }
+    }
+  },
+  {
+    across: {
+      '1': {
+        answer: 'ARISE',
+        row: 0,
+        col: 0
+      },
+      '6': {
+        answer: 'SOFAS',
+        row: 1,
+        col: 0
+      },
+      '7': {
+        answer: 'IS',
+        row: 2,
+        col: 0
+      },
+      '8': {
+        answer: 'UP',
+        row: 2,
+        col: 3
+      },
+      '9': {
+        answer: 'DEITY',
+        row: 3,
+        col: 0
+      },
+      '11': {
+        answer: 'ME',
+        row: 4,
+        col: 2
+      }
+    },
+    down: {
+      '1': {
+        answer: 'ASIDE',
+        row: 0,
+        col: 0
+      },
+      '2': {
+        answer: 'ROSE',
+        row: 0,
+        col: 1
+      },
+      '3': {
+        answer: 'IF',
+        row: 0,
+        col: 2
+      },
+      '4': {
+        answer: 'SAUTE',
+        row: 0,
+        col: 3
+      },
+      '5': {
+        answer: 'ESPY',
+        row: 0,
+        col: 4
+      },
+      '10': {
+        answer: 'IM',
+        row: 3,
+        col: 2
+      }
+    }
+  },
+  {
+    author: 'PeppermintG',
+    across: {
+      '1': {
+        answer: 'OTTER',
+        row: 0,
+        col: 0
+      },
+      '4': {
+        answer: 'NASAL',
+        row: 2,
+        col: 0
+      },
+      '5': {
+        answer: 'EVENS',
+        row: 4,
+        col: 0
+      }
+    },
+    down: {
+      '1': {
+        answer: 'OUNCE',
+        row: 0,
+        col: 0
+      },
+      '2': {
+        answer: 'TASTE',
+        row: 0,
+        col: 2
+      },
+      '3': {
+        answer: 'ROLES',
+        row: 0,
+        col: 4
+      }
+    }
+  },
+  {
+    across: {
+      '1': {
+        answer: 'GALE',
+        row: 0,
+        col: 1
+      },
+      '5': {
+        answer: 'ALLOY',
+        row: 1,
+        col: 0
+      },
+      '6': {
+        answer: 'AIDE',
+        row: 2,
+        col: 1
+      },
+      '7': {
+        answer: 'URGED',
+        row: 3,
+        col: 0
+      },
+      '8': {
+        answer: 'PENS',
+        row: 4,
+        col: 0
+      }
+    },
+    down: {
+      '1': {
+        answer: 'GLARE',
+        row: 0,
+        col: 1
+      },
+      '2': {
+        answer: 'ALIGN',
+        row: 0,
+        col: 2
+      },
+      '3': {
+        answer: 'LODES',
+        row: 0,
+        col: 3
+      },
+      '4': {
+        answer: 'EYED',
+        row: 0,
+        col: 4
+      },
+      '7': {
+        answer: 'UP',
+        row: 3,
+        col: 0
+      }
+    }
+  },
 ];
 
 export default crosswords;
